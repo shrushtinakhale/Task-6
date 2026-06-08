@@ -243,3 +243,6 @@ LIMIT 5;
 ---
 
 *Dataset covers January–February 2024. All revenue values are in USD.*
+
+Author
+shrushti nakhale
